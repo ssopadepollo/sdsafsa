@@ -1,8 +1,0 @@
-while wait() do
-    game:GetService("Players").LocalPlayer.PlayerGui.SecondaryGui.PlayerList.List.RatatuiHelp.LevelLabel.TextColor3 = Color3.fromRGB(255, 0, 0)
-    game:GetService("Players").LocalPlayer.PlayerGui.SecondaryGui.PlayerList.List.RatatuiHelp.LevelLabel.TextScaled = true
-    game:GetService("Players").LocalPlayer.PlayerGui.SecondaryGui.PlayerList.List.RatatuiHelp.LevelLabel.Text = "Owner"
-    game:GetService("Players").LocalPlayer.PlayerGui.SecondaryGui.PlayerList.List.RatatuiHelp.NameLabel = Color3.fromRGB(255, 0, 0)
-    game:GetService("Players").LocalPlayer.PlayerGui.SecondaryGui.PlayerList.List.RatatuiHelp.NameLabel.TextScaled = true
-    game:GetService("Players").LocalPlayer.PlayerGui.SecondaryGui.PlayerList.List.RatatuiHelp.NameLabel.Text = "Owner"
-end
